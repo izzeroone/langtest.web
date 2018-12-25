@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { View, Text, Button} from 'native-base';
 import { StyleSheet, ViewStyle, AsyncStorage } from 'react-native';
-import { heightPercentageToDP, widthPercentageToDP } from '../../helper/ratioHelper';
+import { heightPercentageToDP, widthPercentageToDP } from '../../src/helper/ratioHelper';
 
 export interface ResultScreenProps{
     totalAnswer: number,

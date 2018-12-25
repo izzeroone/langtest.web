@@ -1,4 +1,4 @@
-import QuizStore from "../../store/quizStore";
+import QuizStore from "../../src/store/quizStore";
 import React from 'react';
 import {Subscribe, Provider} from "unstated";
 import QuizScreenContainer, {QuizScreenContainerProps} from "./QuizScreenContainer";

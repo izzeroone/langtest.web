@@ -1,1 +1,0 @@
-export enum AnswerState{'normal', 'selected', 'corrected', 'uncorrected'}

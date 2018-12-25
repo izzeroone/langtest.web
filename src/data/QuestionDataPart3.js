@@ -1,8 +1,6 @@
-import IQuestion, { QuestionType } from "../entity/Question";
-
-const QuestionDataPart3 : IQuestion[] = [{
+const QuestionDataPart3 = [{
     id: 'p3_1_032',
-    type: QuestionType.part3,
+    type: 3,
     question: 'What are the speakers discussing?',
     answer: [
         'A motorcycler', 
@@ -15,7 +13,7 @@ const QuestionDataPart3 : IQuestion[] = [{
     comeWith: ['p3_1_032', 'p3_1_033', 'p3_1_034']
 },{
     id: 'p3_1_033',
-    type: QuestionType.part3,
+    type: 3,
     question: 'What does the man ask about?',
     answer: [
         'The prices', 
@@ -28,7 +26,7 @@ const QuestionDataPart3 : IQuestion[] = [{
     comeWith: ['p3_1_032', 'p3_1_033', 'p3_1_034']
 },{
     id: 'p3_1_034',
-    type: QuestionType.part3,
+    type: 3,
     question: 'What will the woman most likely do next?',
     answer: [
         'Request some feedback', 

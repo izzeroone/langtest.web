@@ -1,6 +1,6 @@
 import {Container} from 'unstated';
 import IQuestion from '../entity/Question';
-import { AnswerState } from '../screen/QuestionScreen/AnswerButton';
+import { AnswerState } from '../../srcts/QuestionScreen/AnswerButton';
 import IQuizService from '../services/IQuizService';
 import sharedQuizService from '../services/QuizService';
 

@@ -1,8 +1,6 @@
-import IQuestion, { QuestionType } from "../entity/Question";
-
-const QuestionDataPart4 : IQuestion[] = [{
+const QuestionDataPart4 = [{
     id: 'p4_1_071',
-    type: QuestionType.part4,
+    type: 4,
     question: 'Where does the speaker work?',
     answer: [
         'At an electronics store', 
@@ -15,7 +13,7 @@ const QuestionDataPart4 : IQuestion[] = [{
     difficultLevel: 3
 },{
     id: 'p4_1_072',
-    type: QuestionType.part4,
+    type: 4,
     question: 'What does the speaker say he has done?',
     answer: [
         'Scheduled an appointment', 
@@ -28,7 +26,7 @@ const QuestionDataPart4 : IQuestion[] = [{
     difficultLevel: 3
 },{
     id: 'p4_1_073',
-    type: QuestionType.part4,
+    type: 4,
     question: 'What does the speaker offer?',
     answer: [
         'Use of a vehicle', 

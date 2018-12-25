@@ -2,11 +2,11 @@ import React from 'react';
 import { Container, Icon, View, Text, Content} from 'native-base';
 import {StyleSheet, TouchableOpacity, Alert, Platform} from 'react-native';
 import { AnswerState } from './AnswerButton';
-import QuizStore from '../../store/quizStore';
+import QuizStore from '../../src/store/quizStore';
 import QuizScreenHeader from './QuizScreenHeader';
-import { widthPercentageToDP, heightPercentageToDP } from '../../helper/ratioHelper';
+import { widthPercentageToDP, heightPercentageToDP } from '../../src/helper/ratioHelper';
 import QuizScreenTimer from './QuizScreenTimer';
-import sharedQuizService from '../../services/QuizService';
+import sharedQuizService from '../../src/services/QuizService';
 import QuestionComponent from './QuestionComponent';
 
 

@@ -3,7 +3,7 @@ import {View, Text, Card} from 'native-base';
 import {StyleSheet, ViewStyle, Image, ImageStyle, Platform, Animated} from "react-native";
 import IQuestion, { QuestionType } from '../../entity/Question';
 import AnswerButton, { AnswerState } from './AnswerButton';
-import { widthPercentageToDP, heightPercentageToDP } from '../../helper/ratioHelper';
+import { widthPercentageToDP, heightPercentageToDP } from '../../src/helper/ratioHelper';
 
 export interface QuestionComponentProps{
     question: IQuestion,

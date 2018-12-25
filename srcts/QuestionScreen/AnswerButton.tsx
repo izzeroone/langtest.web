@@ -1,7 +1,7 @@
 import React from 'react';
 import {StyleSheet, Animated, ViewStyle, TouchableOpacity} from 'react-native';
 import { Button, Text, View} from 'native-base';
-import { widthPercentageToDP } from '../../helper/ratioHelper';
+import { widthPercentageToDP } from '../../src/helper/ratioHelper';
 
 
 export enum AnswerState{'normal', 'selected', 'corrected', 'uncorrected'}

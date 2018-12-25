@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {Header, Left, Body, Right, Button, Icon, Title, Text} from 'native-base';
 import { Platform } from "react-native";
-import { widthPercentageToDP } from '../../helper/ratioHelper';
+import { widthPercentageToDP } from '../../src/helper/ratioHelper';
 
 export interface Props{
     title: String,

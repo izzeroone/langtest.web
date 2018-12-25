@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Button } from 'antd';
-  import './App.css';
+import './App.css';
 import QuestionComponent from './screen/QuizScreenAntd/QuestionComponent';
 import sharedQuizService from './services/QuizService';
 
