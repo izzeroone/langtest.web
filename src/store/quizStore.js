@@ -4,18 +4,9 @@ import { AnswerState } from '../../srcts/QuestionScreen/AnswerButton';
 import IQuizService from '../services/IQuizService';
 import sharedQuizService from '../services/QuizService';
 
-export interface quizStoreInterface {
-    questionList: IQuestion[],
-    correctedAnswer: number,
-    uncorrectedAnswer: number,
-    selectedAnswer: Map<string, number>, //Array with id and selected answer
-    currentQuestion: number,
-    doingTimer: number
-}
-
-export default class QuizStore extends Container<quizStoreInterface>{
-    _quizService: IQuizService = null;
-    constructor(quizService?: IQuizService){
+export default class QuizStore extends Container{
+    _quizService = null;
+    constructor(quizService){
         super();
 
         if(quizService){
@@ -28,49 +19,49 @@ export default class QuizStore extends Container<quizStoreInterface>{
             questionList: [],
             correctedAnswer: 0,
             uncorrectedAnswer: 0,
-            selectedAnswer: new Map<string, number>(),
+            selectedAnswer: new Map(),
             currentQuestion: 0,
             doingTimer: 0
         }
 
     }
 
-    async init() : Promise<void>{
+    async init() {
         this.reset();
         await this.setState({
             questionList: this._quizService.getQuestion()
         });
     }
 
-    async reset() : Promise<void>{
+    async reset() {
         await this.setState({
             questionList: [],
             correctedAnswer: 0,
             uncorrectedAnswer: 0,
-            selectedAnswer:  new Map<string, number>(),
+            selectedAnswer:  new Map(),
             currentQuestion: 0,
             doingTimer: 0
         })
     }
 
-    async nextQuestion() : Promise<void>{
+    async nextQuestion() {
         await this.setState({
             currentQuestion: (this.state.currentQuestion + 1) % this.state.questionList.length
         })
     } 
     
-    async prevQuestion() : Promise<void>{
+    async prevQuestion() {
         await this.setState({
             currentQuestion: (this.state.currentQuestion + this.state.questionList.length - 1) % this.state.questionList.length
         })
     }
 
-    answerQuestion(answer: number) : boolean{
+    answerQuestion(answer) {
         if(this.isCurrentQuestionAnswered()){
             return false;
         }
         var currentQuestion = this.state.questionList[this.state.currentQuestion];
-        var selectedAnswer : Map<string, number> = this.state.selectedAnswer;
+        var selectedAnswer  = this.state.selectedAnswer;
         selectedAnswer.set(currentQuestion.id, answer);
 
         if(answer === currentQuestion.correctAnswer){
@@ -84,29 +75,29 @@ export default class QuizStore extends Container<quizStoreInterface>{
         }
     }
 
-    isOver() : boolean  {
+    isOver()   {
         return this.state.questionList.length === this.state.selectedAnswer.size;
     }
 
-    getCurrentQuestionInfo() : IQuestion {
+    getCurrentQuestionInfo()  {
         return this.state.questionList[this.state.currentQuestion];
     }
 
-    getCurrentQuestionNumber(): number {
+    getCurrentQuestionNumber() {
         return this.state.currentQuestion;
     }
 
-    getTotalQuestionNumber(): number {
+    getTotalQuestionNumber() {
         return this.state.questionList.length;
     }
 
-    isCurrentQuestionAnswered() : boolean {
+    isCurrentQuestionAnswered()  {
         return this.state.selectedAnswer.has(this.getCurrentQuestionInfo().id);
     }
 
-    getCurrentAnswerState(): AnswerState[] {
-        var answerState: AnswerState[] = [AnswerState.normal, AnswerState.normal, AnswerState.normal, AnswerState.normal]
-        var question: IQuestion = this.getCurrentQuestionInfo();
+    getCurrentAnswerState(){
+        var answerState = [AnswerState.normal, AnswerState.normal, AnswerState.normal, AnswerState.normal]
+        var question = this.getCurrentQuestionInfo();
         if(this.isCurrentQuestionAnswered()){
             answerState[this.state.selectedAnswer.get(question.id)] = AnswerState.uncorrected;
             answerState[question.correctAnswer] = AnswerState.corrected;
@@ -115,7 +106,7 @@ export default class QuizStore extends Container<quizStoreInterface>{
         return answerState;
     }
 
-    setTimer(timer: number){
+    setTimer(timer){
         this.setState({
             doingTimer: timer
         });

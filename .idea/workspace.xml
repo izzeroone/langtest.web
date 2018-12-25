@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/store/quizStore.js" line="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32443bb3-0178-48e1-85a0-0a01ff809cae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p1_1_001.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p1_1_002.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p1_1_003.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p1_1_004.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p1_1_005.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p1_1_006.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_007.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_008.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_009.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_010.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_011.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_012.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_013.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_014.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_015.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_016.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_017.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_018.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_019.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_020.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_021.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_022.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_023.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_024.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_025.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_026.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_027.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_028.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_029.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_030.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p2_1_031.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_032-034.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_035-037.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_038-040.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_041-043.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_044-046.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_047-049.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_050-052.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_053-055.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_056-058.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_059-061.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_062-064.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_065-067.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p3_1_068-070.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_071-073.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_074-076.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_077-079.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_080-082.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_083-085.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_086-088.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_089-091.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_092-094.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_095-097.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/audio/test1/p4_1_098-100.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/avatar1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/avatar2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/avatar3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/avatar4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/i5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/i6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icon/i7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/info.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/joychou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/location_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/reading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/reading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/rectangle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p1_1_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p1_1_002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p1_1_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p1_1_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p1_1_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p1_1_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p3_1_063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p3_1_066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p3_1_069.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p4_1_097.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p4_1_099.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p6_1_131-134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p6_1_135-137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p6_1_135-138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p6_1_139-142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p6_1_143-146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_147-148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_149-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_151-153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_154-157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_158-159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_160-162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_163-166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_167-168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_169-171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_172-175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_176-180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_181-185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_191-195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/test1/p7_1_196-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/work.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t1w9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/img/t2w9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w10.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w11.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w12.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w8.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t1w9.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w10.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w11.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w12.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w8.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/vocabulary/word/sound/t2w9.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/QuestionDataPart1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/QuestionDataPart2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/QuestionDataPart3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/QuestionDataPart4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/QuestionDataPart5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/QuestionDataPart6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helper/numberHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helper/ratioHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/QuizScreenAntd/QuestionComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/QuizService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/WordScreenStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/quizStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/store/quizStore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/WordScreenStore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-overrides.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-99">
+              <caret column="68" selection-start-column="68" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/config-overrides.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/store/quizStore.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="202" />
+    <option name="y" value="-25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screen" type="462c0819:PsiDirectoryNode" />
+              <item name="QuizScreenAntd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="langtest.web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="langtest.web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545769602573" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\Projects\langtest.web\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="D:\Projects\langtest.web\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\langtest.web\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32443bb3-0178-48e1-85a0-0a01ff809cae" name="Default Changelist" comment="" />
+      <created>1545768359852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545768359852</updated>
+      <workItem from="1545768375146" duration="1258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1258000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22483222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49932885" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret column="68" selection-start-column="68" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/WordScreenStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/quizStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
